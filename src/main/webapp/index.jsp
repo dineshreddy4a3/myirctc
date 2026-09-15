@@ -1,12 +1,6 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>Welcome to MYIRCTC website developed by dinesh!!</h1>
-    <h1>Provide below information to book a train ticket!!</h1>
-    <p>please fill in this form</p>
+    <h1>Provide below information to book a train ticket</h1>
+    <p>Please fill in this form to create an account.</p>
     <hr>
-
-    <label for="name"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
